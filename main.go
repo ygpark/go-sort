@@ -1,4 +1,3 @@
-// go-sort/main.go
 package main
 
 import (
